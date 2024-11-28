@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     paddingVertical: 8,
     marginRight: 10,
-    backgroundColor: '#fff',
+    backgroundColor: '#ecf0f1',
     width: '70%',
   },
   errorInput: {
